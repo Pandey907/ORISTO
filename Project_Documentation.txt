@@ -1,0 +1,7 @@
+Technical Specifications & Implementation Details
+Architecture & Design: Implemented a Single Page Application (SPA) using Angular for a flicker-free user experience, adhering to the MVC pattern as requested in Section 3.1.
+Data Access Layer: Utilized Dapper ORM for lightweight and high-performance database interactions, specifically for implementing CRUD operations (Sections 3.2 - 3.5).
+Component Communication: Developed a modular UI where the TaskDashboard (Parent) manages state and the TaskForm (Child) handles inputs via @Input() and @Output() decorators.
+Backend Validation: Optimized the .NET 8 Model by using Nullable Reference Types (string?) for LastUpdatedByName to prevent 400 Bad Request errors while ensuring the controller remains hit during debugging.
+Server-Side Search: Integrated a real-time search feature that filters tasks by title or status through the API, fulfilling the requirement in Section 3.6.
+Audit Logging: Leveraged SQL Server's GETDATE() and default constraints to automatically manage CreatedOn and LastUpdatedOn timestamps as per Sections 3.16 and 3.17.

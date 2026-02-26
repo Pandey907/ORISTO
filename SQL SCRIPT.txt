@@ -1,0 +1,18 @@
+CREATE DATABASE TaskMangement;
+GO
+USE TaskMangement
+GO
+CREATE TABLE Tasks (
+    TaskId INT PRIMARY KEY IDENTITY(1,1),
+    TaskTitle NVARCHAR(255) NOT NULL,
+    TaskDescription NVARCHAR(MAX),
+    TaskDueDate DATETIME2,
+    TaskStatus NVARCHAR(50),
+    TaskRemarks NVARCHAR(MAX),
+    CreatedOn DATETIME2 DEFAULT GETDATE(),
+    LastUpdatedOn DATETIME2,
+    CreatedByUserId INT,
+    CreatedByName NVARCHAR(100),
+    LastUpdatedByUserId INT,
+    LastUpdatedByName NVARCHAR(100)
+);

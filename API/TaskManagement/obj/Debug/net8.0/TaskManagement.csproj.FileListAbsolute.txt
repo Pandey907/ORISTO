@@ -1,0 +1,160 @@
+F:\Learnig Project\ASP.NET Core\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.csproj.AssemblyReference.cache
+F:\Learnig Project\ASP.NET Core\TaskManagement\TaskManagement\obj\Debug\net8.0\rpswa.dswa.cache.json
+F:\Learnig Project\ASP.NET Core\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.GeneratedMSBuildEditorConfig.editorconfig
+F:\Learnig Project\ASP.NET Core\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.AssemblyInfoInputs.cache
+F:\Learnig Project\ASP.NET Core\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.AssemblyInfo.cs
+F:\Learnig Project\ASP.NET Core\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.csproj.CoreCompileInputs.cache
+F:\Learnig Project\ASP.NET Core\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.MvcApplicationPartsAssemblyInfo.cs
+F:\Learnig Project\ASP.NET Core\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.MvcApplicationPartsAssemblyInfo.cache
+F:\Learnig Project\ASP.NET Core\TaskManagement\TaskManagement\bin\Debug\net8.0\appsettings.Development.json
+F:\Learnig Project\ASP.NET Core\TaskManagement\TaskManagement\bin\Debug\net8.0\appsettings.json
+F:\Learnig Project\ASP.NET Core\TaskManagement\TaskManagement\bin\Debug\net8.0\TaskManagement.staticwebassets.endpoints.json
+F:\Learnig Project\ASP.NET Core\TaskManagement\TaskManagement\bin\Debug\net8.0\TaskManagement.exe
+F:\Learnig Project\ASP.NET Core\TaskManagement\TaskManagement\bin\Debug\net8.0\TaskManagement.deps.json
+F:\Learnig Project\ASP.NET Core\TaskManagement\TaskManagement\bin\Debug\net8.0\TaskManagement.runtimeconfig.json
+F:\Learnig Project\ASP.NET Core\TaskManagement\TaskManagement\bin\Debug\net8.0\TaskManagement.dll
+F:\Learnig Project\ASP.NET Core\TaskManagement\TaskManagement\bin\Debug\net8.0\TaskManagement.pdb
+F:\Learnig Project\ASP.NET Core\TaskManagement\TaskManagement\bin\Debug\net8.0\Azure.Core.dll
+F:\Learnig Project\ASP.NET Core\TaskManagement\TaskManagement\bin\Debug\net8.0\Azure.Identity.dll
+F:\Learnig Project\ASP.NET Core\TaskManagement\TaskManagement\bin\Debug\net8.0\Dapper.dll
+F:\Learnig Project\ASP.NET Core\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Learnig Project\ASP.NET Core\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+F:\Learnig Project\ASP.NET Core\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+F:\Learnig Project\ASP.NET Core\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Learnig Project\ASP.NET Core\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Learnig Project\ASP.NET Core\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+F:\Learnig Project\ASP.NET Core\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+F:\Learnig Project\ASP.NET Core\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\Learnig Project\ASP.NET Core\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+F:\Learnig Project\ASP.NET Core\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Learnig Project\ASP.NET Core\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+F:\Learnig Project\ASP.NET Core\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+F:\Learnig Project\ASP.NET Core\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Learnig Project\ASP.NET Core\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+F:\Learnig Project\ASP.NET Core\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.OpenApi.dll
+F:\Learnig Project\ASP.NET Core\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+F:\Learnig Project\ASP.NET Core\TaskManagement\TaskManagement\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Learnig Project\ASP.NET Core\TaskManagement\TaskManagement\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Learnig Project\ASP.NET Core\TaskManagement\TaskManagement\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Learnig Project\ASP.NET Core\TaskManagement\TaskManagement\bin\Debug\net8.0\System.ClientModel.dll
+F:\Learnig Project\ASP.NET Core\TaskManagement\TaskManagement\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+F:\Learnig Project\ASP.NET Core\TaskManagement\TaskManagement\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+F:\Learnig Project\ASP.NET Core\TaskManagement\TaskManagement\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Learnig Project\ASP.NET Core\TaskManagement\TaskManagement\bin\Debug\net8.0\System.Memory.Data.dll
+F:\Learnig Project\ASP.NET Core\TaskManagement\TaskManagement\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+F:\Learnig Project\ASP.NET Core\TaskManagement\TaskManagement\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\Learnig Project\ASP.NET Core\TaskManagement\TaskManagement\bin\Debug\net8.0\cs\Microsoft.Data.SqlClient.resources.dll
+F:\Learnig Project\ASP.NET Core\TaskManagement\TaskManagement\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+F:\Learnig Project\ASP.NET Core\TaskManagement\TaskManagement\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+F:\Learnig Project\ASP.NET Core\TaskManagement\TaskManagement\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+F:\Learnig Project\ASP.NET Core\TaskManagement\TaskManagement\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+F:\Learnig Project\ASP.NET Core\TaskManagement\TaskManagement\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+F:\Learnig Project\ASP.NET Core\TaskManagement\TaskManagement\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+F:\Learnig Project\ASP.NET Core\TaskManagement\TaskManagement\bin\Debug\net8.0\pl\Microsoft.Data.SqlClient.resources.dll
+F:\Learnig Project\ASP.NET Core\TaskManagement\TaskManagement\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+F:\Learnig Project\ASP.NET Core\TaskManagement\TaskManagement\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+F:\Learnig Project\ASP.NET Core\TaskManagement\TaskManagement\bin\Debug\net8.0\tr\Microsoft.Data.SqlClient.resources.dll
+F:\Learnig Project\ASP.NET Core\TaskManagement\TaskManagement\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+F:\Learnig Project\ASP.NET Core\TaskManagement\TaskManagement\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+F:\Learnig Project\ASP.NET Core\TaskManagement\TaskManagement\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+F:\Learnig Project\ASP.NET Core\TaskManagement\TaskManagement\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+F:\Learnig Project\ASP.NET Core\TaskManagement\TaskManagement\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Learnig Project\ASP.NET Core\TaskManagement\TaskManagement\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Learnig Project\ASP.NET Core\TaskManagement\TaskManagement\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Learnig Project\ASP.NET Core\TaskManagement\TaskManagement\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+F:\Learnig Project\ASP.NET Core\TaskManagement\TaskManagement\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+F:\Learnig Project\ASP.NET Core\TaskManagement\TaskManagement\obj\Debug\net8.0\rjimswa.dswa.cache.json
+F:\Learnig Project\ASP.NET Core\TaskManagement\TaskManagement\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+F:\Learnig Project\ASP.NET Core\TaskManagement\TaskManagement\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+F:\Learnig Project\ASP.NET Core\TaskManagement\TaskManagement\obj\Debug\net8.0\scopedcss\bundle\TaskManagement.styles.css
+F:\Learnig Project\ASP.NET Core\TaskManagement\TaskManagement\obj\Debug\net8.0\staticwebassets.build.json
+F:\Learnig Project\ASP.NET Core\TaskManagement\TaskManagement\obj\Debug\net8.0\staticwebassets.build.json.cache
+F:\Learnig Project\ASP.NET Core\TaskManagement\TaskManagement\obj\Debug\net8.0\staticwebassets.development.json
+F:\Learnig Project\ASP.NET Core\TaskManagement\TaskManagement\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+F:\Learnig Project\ASP.NET Core\TaskManagement\TaskManagement\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+F:\Learnig Project\ASP.NET Core\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskMana.75ABC965.Up2Date
+F:\Learnig Project\ASP.NET Core\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.dll
+F:\Learnig Project\ASP.NET Core\TaskManagement\TaskManagement\obj\Debug\net8.0\refint\TaskManagement.dll
+F:\Learnig Project\ASP.NET Core\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.pdb
+F:\Learnig Project\ASP.NET Core\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.genruntimeconfig.cache
+F:\Learnig Project\ASP.NET Core\TaskManagement\TaskManagement\obj\Debug\net8.0\ref\TaskManagement.dll
+F:\Learnig Project\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\appsettings.Development.json
+F:\Learnig Project\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\appsettings.json
+F:\Learnig Project\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\TaskManagement.staticwebassets.endpoints.json
+F:\Learnig Project\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\TaskManagement.exe
+F:\Learnig Project\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\TaskManagement.deps.json
+F:\Learnig Project\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\TaskManagement.runtimeconfig.json
+F:\Learnig Project\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\TaskManagement.dll
+F:\Learnig Project\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\TaskManagement.pdb
+F:\Learnig Project\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Azure.Core.dll
+F:\Learnig Project\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Azure.Identity.dll
+F:\Learnig Project\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Dapper.dll
+F:\Learnig Project\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Learnig Project\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+F:\Learnig Project\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+F:\Learnig Project\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Learnig Project\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Learnig Project\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+F:\Learnig Project\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+F:\Learnig Project\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\Learnig Project\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+F:\Learnig Project\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Learnig Project\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+F:\Learnig Project\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+F:\Learnig Project\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Learnig Project\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+F:\Learnig Project\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.OpenApi.dll
+F:\Learnig Project\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+F:\Learnig Project\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Learnig Project\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Learnig Project\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Learnig Project\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\System.ClientModel.dll
+F:\Learnig Project\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+F:\Learnig Project\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+F:\Learnig Project\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Learnig Project\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\System.Memory.Data.dll
+F:\Learnig Project\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+F:\Learnig Project\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\Learnig Project\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\cs\Microsoft.Data.SqlClient.resources.dll
+F:\Learnig Project\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+F:\Learnig Project\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+F:\Learnig Project\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+F:\Learnig Project\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+F:\Learnig Project\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+F:\Learnig Project\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+F:\Learnig Project\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\pl\Microsoft.Data.SqlClient.resources.dll
+F:\Learnig Project\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+F:\Learnig Project\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+F:\Learnig Project\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\tr\Microsoft.Data.SqlClient.resources.dll
+F:\Learnig Project\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+F:\Learnig Project\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+F:\Learnig Project\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+F:\Learnig Project\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+F:\Learnig Project\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Learnig Project\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Learnig Project\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Learnig Project\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+F:\Learnig Project\TaskManagement\TaskManagement\TaskManagement\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+F:\Learnig Project\TaskManagement\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.csproj.AssemblyReference.cache
+F:\Learnig Project\TaskManagement\TaskManagement\TaskManagement\obj\Debug\net8.0\rpswa.dswa.cache.json
+F:\Learnig Project\TaskManagement\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.GeneratedMSBuildEditorConfig.editorconfig
+F:\Learnig Project\TaskManagement\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.AssemblyInfoInputs.cache
+F:\Learnig Project\TaskManagement\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.AssemblyInfo.cs
+F:\Learnig Project\TaskManagement\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.csproj.CoreCompileInputs.cache
+F:\Learnig Project\TaskManagement\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.MvcApplicationPartsAssemblyInfo.cs
+F:\Learnig Project\TaskManagement\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.MvcApplicationPartsAssemblyInfo.cache
+F:\Learnig Project\TaskManagement\TaskManagement\TaskManagement\obj\Debug\net8.0\rjimswa.dswa.cache.json
+F:\Learnig Project\TaskManagement\TaskManagement\TaskManagement\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+F:\Learnig Project\TaskManagement\TaskManagement\TaskManagement\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+F:\Learnig Project\TaskManagement\TaskManagement\TaskManagement\obj\Debug\net8.0\scopedcss\bundle\TaskManagement.styles.css
+F:\Learnig Project\TaskManagement\TaskManagement\TaskManagement\obj\Debug\net8.0\staticwebassets.build.json
+F:\Learnig Project\TaskManagement\TaskManagement\TaskManagement\obj\Debug\net8.0\staticwebassets.build.json.cache
+F:\Learnig Project\TaskManagement\TaskManagement\TaskManagement\obj\Debug\net8.0\staticwebassets.development.json
+F:\Learnig Project\TaskManagement\TaskManagement\TaskManagement\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+F:\Learnig Project\TaskManagement\TaskManagement\TaskManagement\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+F:\Learnig Project\TaskManagement\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskMana.75ABC965.Up2Date
+F:\Learnig Project\TaskManagement\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.dll
+F:\Learnig Project\TaskManagement\TaskManagement\TaskManagement\obj\Debug\net8.0\refint\TaskManagement.dll
+F:\Learnig Project\TaskManagement\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.pdb
+F:\Learnig Project\TaskManagement\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.genruntimeconfig.cache
+F:\Learnig Project\TaskManagement\TaskManagement\TaskManagement\obj\Debug\net8.0\ref\TaskManagement.dll

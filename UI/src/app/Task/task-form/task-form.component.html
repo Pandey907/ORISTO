@@ -1,0 +1,15 @@
+<div class="card p-3 shadow-sm mb-4">
+  <h5>{{ task.taskId ? 'Update Task' : 'Add New Task' }}</h5>
+  <div class="row g-2">
+    <div class="col-md-6"><input [(ngModel)]="task.taskTitle" placeholder="Task Title" class="form-control"></div>
+    <div class="col-md-3">
+      <select [(ngModel)]="task.taskStatus" class="form-control">
+        <option value="Pending">Pending</option>
+        <option value="Completed">Completed</option>
+      </select>
+    </div>
+    <div class="col-md-3"><input type="date" [(ngModel)]="task.taskDueDate" class="form-control"></div>
+    <div class="col-12"><textarea [(ngModel)]="task.taskDescription" placeholder="Description" class="form-control"></textarea></div>
+    <div class="col-12"><button (click)="submit()" class="btn btn-primary w-100">Save Task</button></div>
+  </div>
+</div>
